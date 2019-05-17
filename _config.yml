@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-kr"
-title                    : "오올블루의 기술 블로그"
+title                    : "AllBlue's tech blog"
 title_separator          : "-"
-name                     : "오올블루"
-description              : "개발 관련 정보를 나눕니다"
+name                     : "AllBlue"
+description              : "AllBlue's tech blog"
 url                      : "https://beobest2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "오올블루"
+  name             : "AllBlue(오올블루)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The programmer, IT, Bigdata, AI, Tennis"
+  bio              : "Programming, Algorithm, Bigdata, AI, Tech device, Tennis"
   location         : "Seoul, Korea"
   email            : "beobest2@gmail.com"
   links:
