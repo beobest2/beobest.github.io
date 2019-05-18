@@ -18,6 +18,6 @@ print("hello python")
 C 언에에서의 출력
 
 ```c
-import <stdio.h>
+#include <stdio.h>
 printf("Hello World\r\n");
 ```
