@@ -21,4 +21,3 @@ C 언에에서의 출력
 import <stdio.h>
 printf("Hello World\r\n");
 ```
-```
